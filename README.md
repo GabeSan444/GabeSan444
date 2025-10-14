@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante da Estácio cursando o 4° semestre.<br><br>Atualmente estudando e se aprofundando nas linguagens:<br><br>- Python<br>- SQL<br><br>Tenho conhecimento básico nas linguagens:<br><br>- HTML<br>- CSS<br>- JavaScript<br>- C</p>
+<p align="left">Olá<br><br>Sou estudante da Estácio cursando o 4° semestre.<br><br>Atualmente estudando e se aprofundando nas linguagens:<br><br>- Python<br>- SQL<br><br>Tenho conhecimento básico nas linguagens:<br><br>- HTML<br>- CSS<br>- JavaScript<br>- C</p>
 
 ###
 
