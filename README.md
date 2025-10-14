@@ -1,3 +1,31 @@
+<h2 align="left">Sobre</h2>
+
+###
+
+<p align="left">Sou estudante da Estácio cursando o 4° semestre.<br><br>Atualmente estudando e se aprofundando nas linguagens:<br><br>- Python<br>- SQL<br><br>Tenho conhecimento básico nas linguagens:<br><br>- HTML<br>- CSS<br>- JavaScript<br>- C</p>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+</div>
+
+###
+
 <h2 align="left">Estatísticas</h2>
 
 ###
@@ -9,4 +37,3 @@
 </div>
 
 ###
-
